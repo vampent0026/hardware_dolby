@@ -44,7 +44,7 @@ PRODUCT_COPY_FILES += \
 # Dolby
 PRODUCT_VENDOR_PROPERTIES += \
     ro.vendor.dolby.dax.version=DAX3_3.7.0.8_r1
-    persist.vendor.audio_fx.current=dolby
+    persist.vendor.audio_fx.current=Dolby
 
 # DolbySound and daxService
 PRODUCT_PACKAGES += \
